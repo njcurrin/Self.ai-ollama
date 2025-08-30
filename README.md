@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 Building Ollama requires the latest version of Go, while building all of this from source is eventually the goal, building Go from source is currently outside the scope of my knowledge, and therefore this project. I will come back to this in a future version and start building Go from source, for now see https://go.dev/doc/install to install the appropriate version of Go and build Ollama
 
 installing the CUDA toolkit for you OS is also recommended, see https://developer.nvidia.com/cuda-downloads for further details on how to do that.
+=======
+Follow the [Development Guide](https://github.com/njcurrin/Self.ai-ollama/blob/main/docs/development.md) after testing with the go run . server command build with go build .
+>>>>>>> Stashed changes
 
 # Ollama
 
